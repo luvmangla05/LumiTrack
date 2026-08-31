@@ -1,6 +1,6 @@
 # LumiTrack
 
-LumiTrack is a software-in-the-loop MVP for coarse pointing, acquisition, and tracking of a Free-Space Optical Communication beacon. The unified application exposes a live 2D virtual camera feed and an interactive 3D alignment scene driven by the same backend telemetry stream.
+LumiTrack is a software-in-the-loop MVP for coarse pointing, acquisition, and tracking of a Free-Space Optical Communication beacon. The unified application exposes a live 2D virtual camera feed and an interactive 3D alignment scene driven by the same backend telemetry stream. Simulation provides both- 2D and 3D simulation options in the frontend. 
 
 ## Unified MVP architecture
 
